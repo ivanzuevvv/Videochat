@@ -1,4 +1,4 @@
-# Videochat
+# Django_Videochat
  Video Chat Website With Controls
 In order to use this project you will need to replace the agora credentials in views.py and streams.js.
 
